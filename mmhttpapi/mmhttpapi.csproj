@@ -14,7 +14,6 @@
   <ItemGroup>
     <Folder Include="Entity\" />
     <Folder Include="Response\" />
-    <Folder Include="Request\" />
     <Folder Include="Service\" />
     <Folder Include="Repository\" />
   </ItemGroup>

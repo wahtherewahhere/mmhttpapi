@@ -5,6 +5,7 @@
   "identity": "Me.mmhttpapi",
   "name": "MM HttpAPI",
   "shortName": "mmhttpapi",
+  "sourceName": "mmhttpapi",
   "preferNameDirectory": true,
   "tags": {
     "language": "C#",
@@ -15,6 +16,7 @@
       "modifiers": [
         {
           "exclude": [
+			".git/**",
             ".vs/**"
           ]
         }

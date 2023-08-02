@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mmhttpapi", "mmhttpapi\mmhttpapi.csproj", "{7842CC9E-B813-47F1-83E5-DF9A534FF3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mmhttpapi.tests", "mmhttpapi.tests\mmhttpapi.tests.csproj", "{917E9DA8-0E78-4237-9E9F-69C48E44DB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7842CC9E-B813-47F1-83E5-DF9A534FF3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7842CC9E-B813-47F1-83E5-DF9A534FF3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7842CC9E-B813-47F1-83E5-DF9A534FF3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7842CC9E-B813-47F1-83E5-DF9A534FF3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917E9DA8-0E78-4237-9E9F-69C48E44DB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917E9DA8-0E78-4237-9E9F-69C48E44DB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917E9DA8-0E78-4237-9E9F-69C48E44DB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917E9DA8-0E78-4237-9E9F-69C48E44DB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
