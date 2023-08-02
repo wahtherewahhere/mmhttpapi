@@ -1,0 +1,1 @@
+dotnet new install .\output\Me.MMHttpAPI.1.0.0.nupkg
